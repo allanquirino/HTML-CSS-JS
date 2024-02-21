@@ -1,0 +1,31 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: rgb(241, 161, 41);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+h2{
+    color: rgb(68, 61, 138);
+    font-size: 48px;
+    font-style: italic;
+
+}
+
+p{
+    color: blue;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+.verde{
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
