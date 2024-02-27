@@ -15,17 +15,21 @@ h2{
 }
 
 p{
-    color: blue;
+    color: red;
     text-decoration: underline;
     font-size: 20px;
 
 }
 
-.verde{
+/* .verde{
     color: red;
     text-decoration: none;
     font-size: 20px;
     text-align: center;
     text-transform: uppercase;
-}
+}  */
 
+.destaque{
+    color: #00f529;
+    font-weight: bold;
+}
